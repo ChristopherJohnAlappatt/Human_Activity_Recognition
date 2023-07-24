@@ -46,18 +46,14 @@ To run the Flask application, follow these steps:
 
 1.  Set the Flask app environment variable:
     
-    -   For Windows (Command Prompt):
-       
-        
-        `set FLASK_APP=app.py` 
-        
+   
     -   For Windows (PowerShell):
         
-        `$env:FLASK_APP = "app.py"` 
+        `python app.py` 
         
     -   For macOS/Linux:
         
-        `export FLASK_APP=app.py`
+        `python app.py`
 
 
 
